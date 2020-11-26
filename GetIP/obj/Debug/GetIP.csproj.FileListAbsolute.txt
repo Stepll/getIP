@@ -1,0 +1,13 @@
+E:\code\C#\GetIP\GetIP\bin\Debug\GetIP.exe.config
+E:\code\C#\GetIP\GetIP\bin\Debug\GetIP.exe
+E:\code\C#\GetIP\GetIP\bin\Debug\GetIP.pdb
+E:\code\C#\GetIP\GetIP\obj\Debug\GetIP.csprojAssemblyReference.cache
+E:\code\C#\GetIP\GetIP\obj\Debug\GetIP.Form1.resources
+E:\code\C#\GetIP\GetIP\obj\Debug\GetIP.Properties.Resources.resources
+E:\code\C#\GetIP\GetIP\obj\Debug\GetIP.csproj.GenerateResource.cache
+E:\code\C#\GetIP\GetIP\obj\Debug\GetIP.csproj.CoreCompileInputs.cache
+E:\code\C#\GetIP\GetIP\obj\Debug\GetIP.exe
+E:\code\C#\GetIP\GetIP\obj\Debug\GetIP.pdb
+E:\code\C#\GetIP\GetIP\bin\Debug\Newtonsoft.Json.dll
+E:\code\C#\GetIP\GetIP\bin\Debug\Newtonsoft.Json.xml
+E:\code\C#\GetIP\GetIP\obj\Debug\GetIP.csproj.CopyComplete
